@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: aquamarine;
+}
+
+h3 {
+    background-color: coral;
+    padding: 4px;
+    border-style: dotted; 
+    margin-left: 2em;
+    font-size: 40px;
+}
+
+h5 {
+    font-size: 25px;
+    color: red;
+    font-family: 'Imprint MT Shadow'; 
+}

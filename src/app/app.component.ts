@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularL03';
+  title = 'Mr. Bigglesworth';
+  city = 'Los Angeles';
+  tagLine = 'Young at Heart'; 
+  aboutMe= 'Loyal, Dependable, Loving Feline';
 }
+
